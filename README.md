@@ -5,6 +5,7 @@ Our project is a spin-off of Sheep Derby, replacing the sheep with snowman. The 
 Jared Carreno, Terence Chen, William Koh
 
 # Tech Used:
+-Python
 
 # Instructions
 Left click with the mouse to begin the game. 
