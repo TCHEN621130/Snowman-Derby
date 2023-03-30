@@ -1,5 +1,5 @@
 # Snowman-Derby
-Our project is a spin-off of Sheep Derby, replacing the sheep with snowman. The goal is to kill all three snowmans before they reach the other side. 
+A game where the player must maneuver the ball to kill all three snowmans before they cross the player's side. 
 
 # Creators:
 Jared Carreno, Terence Chen, William Koh
