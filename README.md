@@ -3,6 +3,8 @@ Our project is a spin-off of Sheep Derby, replacing the sheep with snowman. The 
 
 Creators: Jared Carreno, Terence Chen, William Koh
 
+Tech Used:
+
 Instructions
 Left click with the mouse to begin the game. 
 Press the keys "w", "a", "s", "d" keys to move the ball. 
